@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(243, 225, 225);
+}
+
+h1{
+    color: rgb(227, 110, 188);
+}
+.likes{
+    color: white;
+    padding: 5px;
+    border: 15px;
+}
+#ordered-likes{
+  color: rgb(32, 193, 14);  
+  padding: 12px;
+}
+#unordered-likes{
+    color: rgb(42, 140, 220);
+    padding: 20px;
+}
+.dislikes{
+    color: rgb(254, 119, 9);
+}
+#ordered-dislikes{
+    color: aqua;
+}
+#unordered-dislikes{
+    color:rgb(10, 247, 168);
+}
